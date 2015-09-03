@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+# Setup
+title:            'Zombie Labs'
+tagline:          'Powered by brains'
+description:      'Powered by brains'
+url:              http://zombielabs.co
+baseurl:          /
+
+author:
+  name:           'Benjamin Hutchins'
+  url:            https://twitter.com/ben_hutchins
+
+paginate:         5
