@@ -15,7 +15,7 @@ We build services. We're a team of highly skilled, extremely capable computer so
 
 ## What have you built?
 
-Top secret. Our entire team has U.S. Secret clearance and are certified security experts.
+Top secret. Most of our entire team has U.S. Secret clearance and are certified security experts.
 
 ## Are you available for hire?
 
